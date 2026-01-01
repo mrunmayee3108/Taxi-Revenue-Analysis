@@ -1,5 +1,7 @@
 # 🚕 Taxi Revenue Analysis & Dashboard
 
+Main Aim: Maximize revenue for taxi drivers
+
 <p align="left">
   <img src="https://cdn.simpleicons.org/python" height="48" />
   <img src="https://cdn.simpleicons.org/pandas" height="48" />
